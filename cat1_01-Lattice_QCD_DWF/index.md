@@ -3,9 +3,7 @@
 ## Basic information
 
  - Design and development working group name: EXALAT
- - Challenge Problem Category: Category 1 
- - Contacts for this Challenge Problem: Luigi Del Debbio (luigi.del.debbio@ed.ac.uk),
-   Jonathan Flynn (j.m.flynn@soton.ac.uk), Andreas Juettner (juettner@soton.ac.uk)
+ - Challenge Problem Category: Category 1
 
 ## Brief description of exascale use case 
 
