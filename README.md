@@ -6,7 +6,7 @@ Repository of exascale problem challenged from the ExCALIBUR programme.
 
 As part of the ongoing ExCALIBUR benchmark activity, we are capturing technical information about the planned use of exascale computing by different research areas. One way in which we are doing this is to work with the ExCALIBUR projects/activities/working groups to develop a set of *ExCALIBUR Exascale Challenge Problems*. These challenge problems provide a summary of test cases that can be used on an exascale system that demonstrate it is meeting the requirements for the associated research use case. In some, but not all, cases these Challenge Problems can also be baselined on current large HPC systems.
 
-The ExCALIBUR approach draws heavily on [work done by the US Exascale Computing Project (ECP)](https://www.exascaleproject.org/wp-content/uploads/2020/03/ECP_AD_Milestone-Early- Application-Results_v1.0_20200325_FINAL.pdf).
+The ExCALIBUR approach draws heavily on [work done by the US Exascale Computing Project (ECP)](https://www.exascaleproject.org/wp-content/uploads/2020/03/ECP_AD_Milestone-Early-Application-Results_v1.0_20200325_FINAL.pdf).
 
 ## Challenge Problem Categories
 
