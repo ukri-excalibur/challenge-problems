@@ -18,8 +18,10 @@ The ExCALIBUR approach draws heavily on [work done by the US Exascale Computing 
 
 ### Category 1 Exascale Challenge Problems
 
- - [Lattice QCD with Domain-Wall Fermions](cat1_01-Lattice_QCD_DWF/)
- - [High Performance Geometric Multigrid (HPGMG)](cat1_02-HPGMG/)
- - [Simulating the Universe](cat1_03-SPH/)
+ - [Lattice QCD with Domain-Wall Fermions](cat1_01-Lattice_QCD_DWF/index.md)
+ - [High Performance Geometric Multigrid (HPGMG)](cat1_02-HPGMG/index.md)
+ - [Simulating the Universe](cat1_03-SPH/index.md)
 
 ## Challenge Problem Definition Template
+
+ - To be added
